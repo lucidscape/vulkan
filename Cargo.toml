@@ -1,0 +1,11 @@
+[package]
+name = "vulkan"
+version = "0.0.1"
+authors = ["Rod Furlan, Lucidscape <rod@lucidscape.com>"]
+license = "MIT"
+repository = "https://github.com/lucidscape/vulkan"
+description = """Rust wrapper for Vulkan 1.0 (WiP)"""
+
+[lib]
+name = "vulkan"
+path = "src/lib.rs"
